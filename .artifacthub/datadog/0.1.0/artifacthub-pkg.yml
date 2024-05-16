@@ -1,0 +1,22 @@
+version: 0.1.0
+name: datadog
+displayName: Datadog
+createdAt: "2024-05-16T10:00:00Z"
+description: Datadog OpenCost plugin
+license: Apache-2
+homeURL: https://www.opencost.io/docs/integrations/datadog
+appVersion: 0.1.0
+keywords:
+    - datadog
+    - opencost
+    - plugin
+links:
+    - name: website
+      url: https://www.opencost.io
+provider:
+    name: OpenCost maintainers
+changes:
+  - kind: added
+    description: Initial release
+recommendations:
+  - url: https://artifacthub.io/packages/helm/opencost/opencost
